@@ -130,11 +130,10 @@ Calculated by the FMU mechanism model, including high-order harmonics and non-li
 
 ## 🗓️ Roadmap
 
-- [√] **v0.1**: Completed MATLAB Simulink models for EAF and LF and exported them as FMUs.
-- [√] **v0.2**: Built the AnyLogic basic logistics framework and implemented static FMU calls.
+- [x] **v0.1**: Completed MATLAB Simulink models for EAF and LF and exported them as FMUs.
+- [x] **v0.2**: Built the AnyLogic basic logistics framework and implemented static FMU calls.
 - [ ] **v0.3**: Integrate the LLM module to enable text-to-config parameter generation.
 - [ ] **v0.4**: Introduce Reinforcement Learning (RL) agents into AnyLogic to optimize scheduling strategies.
-
 
 ## 📜 License
 
