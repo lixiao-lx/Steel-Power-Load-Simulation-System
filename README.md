@@ -1,11 +1,13 @@
 # Full-Process-Steel-Power-Load-Simulation-System
-<div align="center">
-  <a href="https://www.hebut.edu.cn/" target="_blank"> <img width="50" height="50" alt="Hebei_University_of_Technology_Badge svg" src="https://github.com/user-attachments/assets/df4779fc-4408-45aa-a55c-8699ce0a9b66" style="vertical-align: middle;" />
-  </a>
+<img width="150" height="60" alt="logo" src="https://github.com/user-attachments/assets/6573d6d2-9881-4d6a-9a91-9dccbaffbddc" />
+  <br/>
+  
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-green)](https://www.anylogic.com/)
 [![MATLAB](https://img.shields.io/badge/Model-MATLAB%2FSimulink%20FMU-orange)](https://www.mathworks.com/)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+
+
 
 **Full-Process-Steel-Power-Load-Simulation-System** is a multi-layer hybrid simulation platform designed to simulate and analyze power load characteristics during the steel production process.
 
